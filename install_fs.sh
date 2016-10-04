@@ -4,7 +4,7 @@ export PATH
 
 
 install_path=/fs/
-package_download_url=http://d.zmrbk.com/vpn/fs/finalspeed_server.zip
+package_download_url=https://github.com/poy2010/yyju/raw/master/finalspeed_server.zip
 package_save_name=finalspeed_server.zip
  
 function checkjava(){
